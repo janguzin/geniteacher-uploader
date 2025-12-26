@@ -1,0 +1,11 @@
+urls:
+  upload_url: "https://www.geniteacher.com/home"
+
+timeouts:
+  ocr_ms: 900000 # 15분
+
+# 카테고리 매핑 (코드 수정 없이 여기서 수정)
+category_keywords:
+  - "모의고사 기출문제"
+  - "고3"
+  - "과학탐구"
